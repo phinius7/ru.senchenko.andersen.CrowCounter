@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crow Counter</string>
+    <string name="go_info_button">Go Info</string>
+    <string name="count_button">CROW!</string>
+    <string name="count_initial_value">0</string>
+    <string name="back_button">Go back</string>
+    <string name="show_count_info">0</string>
+</resources>
